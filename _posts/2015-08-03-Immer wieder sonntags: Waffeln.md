@@ -3,7 +3,6 @@ layout: post
 title: Immer wieder sonntags: Waffeln
 category: Rezepte
 tags: Waffeln Frühstück
-excerpt_separator: <!--more-->
 ---
 
 Drei schnelle Waffelrezepte
@@ -12,8 +11,6 @@ Drei schnelle Waffelrezepte
 ![Waffel im Waffeleisen](https://raw.githubusercontent.com/spinni/spinni.github.com/master/images/20150803-recipe-waffeln.jpg)
 
 In der Küche finden sich wenige Geräte, die nur zur Zubereitung einer einzelnen Speise bzw. Getränk geeignet ist. Neben der Kaffeemühle und -maschine gehört dazu das Waffeleisen. Ein robustes Gerät für die klassischen Herzwaffeln. Es hat sich dann ergeben, dass das Sonntagsfrühstück aus Waffeln besteht. Abwechslung gibt es wenig, das macht aber nichts. Ich gehöre nicht zu den Menschen, die beim Frühstück ständig neue Dinge braucht. Außerdem sind der Herr G. und ich uns einig, dass gewisse Dinge in Waffeln sowieso nichts zu suchen haben. Vollkornmehl zum Beispiel. Lange Rede kurzer Sinn, es folgen die drei Waffelrezepte die bei uns im Wochentakt durchwechseln. Alle Rezepte sind Abwandlungen aus dem Buch von GU mit dem Titel "Waffeln".
-
-<!--more-->
 
 Alle Rezepte sind für 2 Personen gedacht. Es ergeben sich jeweils 4 bis 5 Waffeln im Herzwaffeleisen, wir backen sie direkt am Tisch.
 
