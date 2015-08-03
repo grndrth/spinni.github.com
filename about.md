@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, ich bin Christina, im Netz oft unterwegs als Spinni. Hier geht's um JavaScript und alles was dazu gehört. Gelegentlich findet sich hier auch ein Rezept, denn vom Coden allein kann man ja auch nicht leben...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[christina.grandrath@gmx.net](christina.grandrath@gmx.net)
