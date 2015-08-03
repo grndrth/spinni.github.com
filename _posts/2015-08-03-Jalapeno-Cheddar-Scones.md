@@ -8,7 +8,7 @@ title: Jalapeno-Cheddar-Scones
 Die Kombination aus Jalapenos und Cheddar ist per se keine schlechte. Daher sind diese kleinen Gebäckstücke auch eine schnelle und einfacher Snack oder Mitbringsel für die nächste Party. Das Rezept stammt von der [Pioneer Woman](http://thepioneerwoman.com/cooking/2014/07/jalapeno-cheddar-scones/), allerdings habe ich das Rezept etwas geändert, da ich mit den angegebenen Mengen nicht die besten Ergebnisse erzielt habe. Außerdem empfehle ich statt eingelegter Jalapenos frische zu verwenden. Wenn nur die eingelegten zu bekommen sind, sollten diese gut abgespült werden und abtropfen.
 Die Scones sind ohne Chilli pikant bis leicht scharf, mit Chilipulver kann man hier nach belieben würzen
 
-![Jalapeno-Cheddar-Scones](https://raw.githubusercontent.com/spinni/spinni.github.com/master/images/20150903-recipe-jalapeno-scones.jpg)
+![Jalapeno-Cheddar-Scones](https://raw.githubusercontent.com/spinni/spinni.github.com/master/images/20150803-recipe-jalapeno-scones.jpg)
 
 ##Zutaten
 für ca. 50 Stück
