@@ -3,6 +3,7 @@ layout: post
 title: Immer wieder sonntags: Waffeln
 category: Rezepte
 tags: Waffeln Frühstück
+excerpts_separator: ""
 ---
 
 #Drei schnelle Waffelrezepte
