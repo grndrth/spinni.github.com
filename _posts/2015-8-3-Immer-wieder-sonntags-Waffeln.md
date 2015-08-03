@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Immer wieder sonntags: Waffeln
+title: Immer wieder sonntags
 ---
 
 #Drei schnelle Waffelrezepte
