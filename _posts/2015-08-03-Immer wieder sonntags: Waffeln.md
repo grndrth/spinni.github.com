@@ -5,8 +5,8 @@ category: Rezepte
 tags: Waffeln Frühstück
 ---
 
-Drei schnelle Waffelrezepte
----------------------------
+#Drei schnelle Waffelrezepte
+
 
 ![Waffel im Waffeleisen](https://raw.githubusercontent.com/spinni/spinni.github.com/master/images/20150803-recipe-waffeln.jpg)
 
@@ -14,42 +14,40 @@ In der Küche finden sich wenige Geräte, die nur zur Zubereitung einer einzelne
 
 Alle Rezepte sind für 2 Personen gedacht. Es ergeben sich jeweils 4 bis 5 Waffeln im Herzwaffeleisen, wir backen sie direkt am Tisch.
 
-Waffeln mit Buttermilch
------------------------
+##Waffeln mit Buttermilch
 
-* 60g weiche Butter
-* 35g Zucker
-* 1 EL Vanillezucker
-* 2 zimmerwarme Eier
-* 125g Mehl
-* 100g Buttermilch
-* 1 Msp Backpulver
+
+- 60g weiche Butter
+- 35g Zucker
+- 1 EL Vanillezucker
+- 2 zimmerwarme Eier
+- 125g Mehl
+- 100g Buttermilch
+- 1 Msp Backpulver
 
 Butter mit Zucker schaumig rühren, Eier einzeln unterrühren. Mehl, Backpulver und Buttermilch einrühren. 2-3 Esselöffel Teig in das vorgeheizte Waffeleisen geben, ca 2 Minuten backen.
 
-Waffeln mit Saurer Sahne
-------------------------
+##Waffeln mit Saurer Sahne
 
-* 60g weiche Butter
-* 30g Zucker
-* 1 EL Vanillezucker
-* 3 zimmerwarme Eier
-* 120g Mehl
-* 120g saure Sahne
+- 60g weiche Butter
+- 30g Zucker
+- 1 EL Vanillezucker
+- 3 zimmerwarme Eier
+- 120g Mehl
+- 120g saure Sahne
 
 Butter mit Zucker schaumig rühren, Eier einzeln unterrühren. Mehl und saure Sahne einrühren. 3-4 Esselöffel Teig in das vorgeheizte Waffeleisen geben, ca 2 Minuten backen. Dieser Teig ist recht flüssig.
 
-Sandwaffeln
------------
+##Sandwaffeln
 
-* 70g weiche Butter
-* 35g Zucker
-* 1 EL Vanillezucker
-* 2 zimmerwarme Eier
-* 50g Mehl
-* 50g Speisestärke
-* 50g Creme fraiche
-* 1 EL Rum, ersatzweise Milch
-* 1/8 TL Backpulver
+- 70g weiche Butter
+- 35g Zucker
+- 1 EL Vanillezucker
+- 2 zimmerwarme Eier
+- 50g Mehl
+- 50g Speisestärke
+- 50g Creme fraiche
+- 1 EL Rum, ersatzweise Milch
+- 1/8 TL Backpulver
 
 Butter mit Zucker schaumig rühren, Eier einzeln unterrühren. Mehl, Stärke, Backpulver und Rum einrühren. 2-3 Esselöffel Teig in das vorgeheizte Waffeleisen geben, ca 2 Minuten backen.
