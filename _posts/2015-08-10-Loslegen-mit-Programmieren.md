@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loslegen-mit-Programmieren
+title: Loslegen mit Programmieren
 ---
 
 In der Ausgabe 18/2015 der Zeitschrift [c't](https://heise.de) werden Tipps für den Einstieg ins Programmieren gegeben. Die Artikel sind online leider nicht zugänglich, aber zumindest finden sich die Links zu [Lernplattformen](https://ct.de/yku1) und [Webseiten zum "Wetthacken"](https://ym9c) im Netz.
