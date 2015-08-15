@@ -3,8 +3,6 @@ layout: post
 title: Jalapeno-Cheddar-Scones
 ---
 
-#Herzhafte Happen
-
 Die Kombination aus Jalapenos und Cheddar ist per se sehr gut. Daher sind diese kleinen Gebäckstücke auch eine schnelle und einfacher Snack oder Mitbringsel für die nächste Party. Das Rezept stammt von der [Pioneer Woman](http://thepioneerwoman.com/cooking/2014/07/jalapeno-cheddar-scones/), allerdings habe ich das Rezept etwas geändert, da ich mit den angegebenen Mengen nicht die besten Ergebnisse erzielt habe. Außerdem empfehle ich statt eingelegter Jalapenos frische zu verwenden. Wenn nur die eingelegten zu bekommen sind, sollten diese gut abgespült werden und abtropfen.
 Die Scones sind ohne Chilli pikant bis leicht scharf, mit Chilipulver kann man hier nach belieben würzen
 
@@ -23,7 +21,7 @@ für ca. 50 Stück
 - 1 Ei
 - 1/8 l Milch
 
-### Zubereitung
+## Zubereitung
 Den Backofen auf 200°C vorheizen. Mehl, Stärke, Backpulver und Salz in einer großen Schüssel vermischen. Jalapenos waschen, halbieren und entkernen (das geht gut mit einem kleinen Löffel). Nun die Jalapenos zunächst in Streifen, dann in Würfel schneiden. Den Käse in ca. 1 cm große Würfel schneiden. Beides zur Mehlmischung geben und gut vermengen.
 
 Die kalte Butter würfeln, zur Mehlmischung geben und mit den Händen einkneten. Sobald die Butter halbwegs eingearbeitet ist Ei und Milch zugeben. Das Ganze nun grad so lange durchkneten, dass es zusammenhält. Wenn der Teig zu weich ist, kann man ihn auch für 1 bis 2 Stunden in den Kühlschrank geben. Dann lässt er sich besser ausrollen.
