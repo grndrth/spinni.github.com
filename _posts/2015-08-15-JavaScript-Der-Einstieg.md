@@ -1,11 +1,13 @@
 ---
 layout: post
-title: JavaScript: Der Einstieg
+title: JavaScript - Der Einstieg
 ---
 
 Ich habe vor einiger Zeit angefangen im Selbstudium Programmieren zu lernen. Die Erfahrungen, die ich dabei gemacht habe, möchte ich hier weitergeben. Das Ganze bezieht sich zwar primär auf JavaScript, sollte aber auf andere Sprachen übertragbar sein.
 
 Im letzten [Blogartikel](http://blog.slotted-spoon.de/Loslegen-mit-Programmieren/) hatte ich Tipps gegeben wo man Inhalte findet, um loszulegen. In diesem Post werde ich das für JavaScript konkretisieren. Es gibt mehr als einen Weg zum Ziel, ich kann hier nur meinen erläutern in der Hoffnung, dass einige das hilfreich finden. Wenn man sich jeden Tag hinsetzt und tatsächlich programmiert, kommt man schon nach kurzer Zeit zu Ergebnissen.
+
+<!--more-->
 
 ## Ok, los geht's
 
