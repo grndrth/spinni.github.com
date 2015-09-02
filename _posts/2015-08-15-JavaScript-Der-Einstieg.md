@@ -26,6 +26,7 @@ Am Anfang braucht man nur einen Browser und eine funktionierende Internetverbind
 
 Im Prinzip ist es fast egal welchen Editor man nutzt, allerdings wird das Leben erheblich leichter wenn zumindest Dinge wie Syntaxhighlighting möglich sind. Meine Empfehlung ist [Atom](https://atom.io/), der von GitHub unter einer Open Source Lizenz bereitgestellt wird. Mir gefällt an Atom, dass er sich relativ einfach mittels JavaScript auf eigene Bedürfnisse anpassen lässt. Die Bedienung ist so gut wie ohne Maus möglich, was mir als Emacs-Fan durchaus entgegenkommt. Außerdem gibt es eine sehr einfach Möglichkeit Plugins zu installieren. Und nicht zuletzt sieht er auch gut aus.
 Folgende Plugins fand ich bisher am hilfreichsten:
+
 - [Tabs to Spaces](https://atom.io/packages/tabs-to-spaces) - konvertiert Tabstopps in Leerzeichen und umgekehrt
 - [Linter](https://atom.io/packages/linter) in Verbindung mit [Eslint](https://atom.io/packages/linter-eslint) - statische Codeanalyse, hilft Syntaxfehler zu finden
 - [Autoclose HTML](https://atom.io/packages/autoclose-html) - schließt HTML-Tags automatisch
@@ -46,6 +47,7 @@ Das wars, damit ist das Wichtigste installiert.
 ## Was kommt als nächstes
 
 Wenn man die Grundlagen von JavaScript verstanden hat und selbständig ein paar Programmieraufgaben gelöst hat, sollte man sich meiner Meinung nach mit ein paar Dingen beschäftigen, die in den Tutorials und Büchern selten erwähnt werden:
+
 - Erstellungsprozess automatisieren (Automated Build)
 - Fortlaufendes Testen von Software noch während der Entwicklung (Test Driven Development, kurz TDD)
 - Modularisierung des Codes (Modules)
