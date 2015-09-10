@@ -40,7 +40,9 @@ Am Anfang vielleicht ist es im Zweifelsfall egal, wenn man mal etwas unwiderrufl
 [Node.js](https://nodejs.org/) ist eine Runtime-Plattform für JavaScript. Man kann damit u.a. JavaScript-Code auf der Konsole ausführen, ohne dass man einen Browser benötigt.
 Unter Linux ist die Installation über die Paketverwaltung möglich. Damit man Node.js dann mit "node" auf der Konsole aufrufen kann, muss man eventuell noch einen Symlink setzen (als root):
 
-    ~# ln -s /usr/bin/nodejs /usr/bin/node
+```bash
+ln -s /usr/bin/nodejs /usr/bin/node
+```
 
 Das wars, damit ist das Wichtigste installiert.
 
