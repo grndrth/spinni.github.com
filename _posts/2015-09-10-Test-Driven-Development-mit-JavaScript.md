@@ -16,7 +16,7 @@ Das Prinzip von TDD lässt sich in fünf Schritten beschreiben:
 1. Überlege, was die gewünschte Funktionanlität deines Codes ist und wie sie getestet werden kann ("Think").
 2. Schreibe den Test und stelle sicher, dass der Test aus den richtigen Gründen fehl schlägt ("Red Bar").
 3. Schreibe den notwendigen Code um den Test zu bestehen und stelle sicher, dass dein Test erfolgreich ist ("Green Bar").
-4. Wenn gewünscht oder notwendig, restrukturiere deinen Code bis du ihn gut und schön genug findest ("Refactor"). Stelle sicher, dass der Test immer noch erfolgreich ist ("Refactor").
+4. Wenn gewünscht oder notwendig, restrukturiere deinen Code bis du ihn gut und schön genug findest ("Refactor"). Stelle sicher, dass der Test immer noch erfolgreich ist.
 5. Wiederhole die vorherigen Schritte für die nächste Funktionalität ("Repeat").
 
 Man kann das Ganze auch in einem Flowchart darstellen:
