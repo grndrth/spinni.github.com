@@ -16,18 +16,18 @@ Das Prinzip von TDD lässt sich in fünf Schritten beschreiben:
 1. Überlege, was die gewünschte Funktionanlität deines Codes ist und wie sie getestet werden kann ("Think").
 2. Schreibe den Test und stelle sicher, dass der Test aus den richtigen Gründen fehl schlägt ("Red Bar").
 3. Schreibe den notwendigen Code um den Test zu bestehen und stelle sicher, dass dein Test erfolgreich ist ("Green Bar").
-4. Wenn gewünscht oder notwendig, restrukturiere deinen Code bis du ihn gut und schön genug findest ("Refactor"). Stelle sicher, dass der Test immer noch erfolgreich ist.
+4. Wenn gewünscht oder notwendig, restrukturiere deinen Code bis du ihn gut und schön genug findest ("Refactor"). Stelle sicher, dass der Test immer noch erfolgreich ist ("Refactor").
 5. Wiederhole die vorherigen Schritte für die nächste Funktionalität ("Repeat").
 
-Man kann das Ganze auch in einem schönen Flowchart darstellen:
+Man kann das Ganze auch in einem Flowchart darstellen:
 
 ![Flowchart für Test Driven Development](https://raw.githubusercontent.com/spinni/spinni.github.com/master/images/20150910-tdd-ablauf.png)
 
-Der schwierigste Punkt ist das Nachdenken, vor allem als Anfänger wird man damit viel Zeit verbringen. Wichtig ist dabei nicht zuviel auf einmal "erschlagen" zu wollen. TDD bedeutet, dass man immer nur wenige Zeilen Code schreibt, sowohl für den Test als auch für den Production Code. Daneben muss man sich damit beschäftigen welche Möglichkeiten es gibt die verschiedenen Komponenten zu testen. Mit JavaScript manipuliert man in der Regel das DOM des Browsers. Für den Anfang kann man sich aber auf eine einfachere Unit Test von reinem JavaScript konzentrieren. Wenn man das Prinzip verstanden hat, kann man sich an schwierigere Fällen wagen. Viele Testing Frameworks bringen auch Unterstützung für browserspezifische Testfälle. Einführungen finden sich im [Smashing Magazine](http://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/) und bei [A List Apart](http://alistapart.com/article/writing-testable-javascript).
+Der schwierigste Punkt ist das Nachdenken, vor allem als Anfänger wird man damit viel Zeit verbringen. Wichtig ist dabei nicht zuviel auf einmal "erschlagen" zu wollen. TDD bedeutet, dass man immer nur wenige Zeilen Code schreibt, sowohl für den Test als auch für den Production Code. Daneben muss man sich damit beschäftigen welche Möglichkeiten es gibt die verschiedenen Komponenten zu testen. Mit JavaScript manipuliert man in der Regel das DOM des Browsers. Für den Anfang kann man sich aber auf eine einfachere Unit Test von reinem JavaScript konzentrieren. Wenn man das Prinzip verstanden hat, kann man sich an schwierigere Fälle wagen. Viele Testing Frameworks bringen auch Unterstützung für browserspezifische Testfälle mit. Einführungen finden sich im [Smashing Magazine](http://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/) und bei [A List Apart](http://alistapart.com/article/writing-testable-javascript).
 
 ## TDD mit Beispiel
 
-Für alles Folgende muss Node.js [installiert](http://blog.slotted-spoon.de/JavaScript-Der-Einstieg/) sein. Am besten legt man ein neues Verzeichnis "tdd-beispiel" an und wechseln auch gleich in das Verzeichnis, da hier alles installiert wird, was wir brauchen.
+Für alles Folgende muss Node.js [installiert](http://blog.slotted-spoon.de/JavaScript-Der-Einstieg/) sein. Am besten legt man ein neues Verzeichnis "tdd-beispiel" an. Wir wechseln auch gleich in das Verzeichnis, da hier alles installiert wird, was wir brauchen.
 
 ```bash
 mkdir tdd-beispiel
@@ -107,7 +107,7 @@ assert.equal(subtract(10, 12), 0);
 
 ### Exkurs: TDD vs. BDD
 
-Als ich anfing, mich mit Test Driven Development zu beschäftigen, ist mir öfter der Begriff des "Behaviour Driven Developments" (BDD) aufgefallen. Es gibt in der Welt der Software-Entwicklung Menschen mit sehr ausgeprägten Meinungen was TDD von BDD unterscheidet (oder grade nicht unterscheidet). Meinem Verständnis nach ist BDD letztlich ein anderer Stil Tests zu schreiben, der näher an die natürliche Sprache angelehnt ist und somit leichter zu lernen ist. Außerdem kann man (theoretisch) aus den Tests auch gleich die Spezifikation der Software ableiten. Wie gut das geht, ist Gegenstand so mancher Debatte. Aber das soll hier nicht weiter relevant sein.
+Als ich anfing, mich mit Test Driven Development zu beschäftigen, ist mir öfter der Begriff des "Behaviour Driven Developments" (BDD) aufgefallen. Es gibt in der Welt der Software-Entwicklung Menschen mit sehr ausgeprägten Meinungen was TDD von BDD unterscheidet (oder grade nicht unterscheidet). Meinem Verständnis nach ist BDD letztlich ein anderer Stil Tests zu schreiben, der näher an die natürliche (englische) Sprache angelehnt ist und somit leichter zu lernen ist. Außerdem kann man (theoretisch) aus den Tests auch gleich die Spezifikation der Software ableiten. Wie gut das geht, ist Gegenstand so mancher Debatte. Aber das soll hier nicht weiter relevant sein.
 
 Wie unterscheiden sich TDD und BDD nun? In beiden Fällen gibt es die Möglichkeit Tests zu einer Suite zu gruppieren und die Tests zu kommentieren. Außerdem unterscheiden sich die Form der Assertions. Oben haben wir das Beispiel des "klassischen" _assert_-Stils gesehen. Die Test ließen sich aber auch im _expect_-Stil bzw. im _should_-Stil schreiben:
 
@@ -125,7 +125,7 @@ var should = require("chai").should();
 subtract(10, 3).should.equal(7);
 ```
 
-Der _expect_- und _should_-Stil sind dabei mit BDD assoziiert. Ich finde diese Varianten verwirrender als _assert_, da sie eigentlich keine korrekte JavaScript-Syntax haben. Allerdings sind sie durchaus leichter zu lesen.
+Der _expect_- und _should_-Stil sind dabei mit BDD assoziiert. Ich finde diese Varianten verwirrender als _assert_, allerdings sind sie für viele Menschen leichter zu lesen und zu lernen.
 
 ## TDD mit Test Framework
 
@@ -160,13 +160,14 @@ describe("Substraction", function () {
 });
 ```
 
-Unsere Tests sind jetzt innerhalb von `describe` zu finden, was einer Testsuite entspricht. Jeder Test wird mit `it` eingeleitet und beschrieben. Die Assertion bleibt gleich, da Mocha sich darum nicht selbst kümmert. Wenn wir jetzt wie gewohnt `node test.js` aufrufen, bekommen wir eine Fehlermeldung, da `describe` und `it` kein "normales" JavaScript sind. Stattdessen müssen wir die Tests mit Mocha aufrufen:
+Unsere Tests sind jetzt innerhalb von `describe` zu finden, was einer Testsuite entspricht. Jeder Test wird mit `it` eingeleitet und beschrieben. Die Assertion bleibt gleich, da Mocha sich darum nicht selbst kümmert. Wenn wir jetzt wie gewohnt `node test.js` aufrufen, bekommen wir eine Fehlermeldung, da `describe` und `it` von Mocha mitgebracht werden. Wir müssen die Tests also mit Mocha aufrufen:
 
 ```bash
 ./node_modules/.bin/mocha test.js
 ```
 
 Jetzt sollten die Tests erfolgreich laufen und wir bekommen einen schön formatierten Output (letzteres übrigens auch wenn ein Test fehlschlägt).
+
 Diese Art Tests zu schreiben ist der BDD-Stil (ich benutze aber trotzdem `assert` statt `expect` oder `should`). Im TDD-Stil sieht das etwas anders aus:
 
 ```javascript
@@ -196,4 +197,4 @@ Beim Aufruf von Mocha muss man beachten, das Interface auf TDD zu setzen:
 ./node_modules/.bin/mocha test.js --ui tdd
 ```
 
-Damit sind die Wichtigsten Prinzipien und Tools von Test Driven Development schon erklärt. Im nächsten Artikel soll es darum die Ausführung der Test in den Browser zu verlagern und zu automatisieren.
+Damit sind die wichtigsten Prinzipien und Tools von Test Driven Development schon erklärt. Im nächsten Artikel soll es darum die Ausführung der Test in den Browser zu verlagern und zu automatisieren.
