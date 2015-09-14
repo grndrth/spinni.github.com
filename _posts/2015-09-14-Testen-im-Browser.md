@@ -58,7 +58,7 @@ describe("Substraction", function () {
 
 ```
 
-Wenn wir jetzt im Browser die Datei mit "file:///pfad-zur-datei/tdd-beispiel/test.html" aufrufen, werden die Tests nicht durchgeführt. Auf der Konsole (mit F12 aufrufen) meldet der Browser "require not defined". Das liegt daran, dass Node `require` kennt, der Browser aber nicht. Damit die Tests funktionieren, muss in "test.js" die erste Zeile folgendermaßen geändert werden (_chai_ wird durch den zweiten "script"-Tag geladen):
+Wenn wir jetzt im Browser die Datei mit `file:///pfad-zum-ordner/tdd-beispiel/test.html` aufrufen, werden die Tests nicht durchgeführt. Auf der Konsole (mit F12 aufrufen) meldet der Browser "require not defined". Das liegt daran, dass Node `require` kennt, der Browser aber nicht. Damit die Tests funktionieren, muss in "test.js" die erste Zeile folgendermaßen geändert werden (_chai_ wird durch den zweiten "script"-Tag geladen):
 
 ```javascript
 var assert =  chai.assert;
