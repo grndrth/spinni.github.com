@@ -3,7 +3,7 @@ layout: post
 title: Immer wieder sonntags
 ---
 
-#Drei schnelle Waffelrezepte
+# Drei schnelle Waffelrezepte
 
 
 ![Waffel im Waffeleisen](https://raw.githubusercontent.com/spinni/spinni.github.com/master/images/20150803-recipe-waffeln.jpg)
@@ -14,8 +14,7 @@ Alle Rezepte sind für 2 Personen gedacht. Es ergeben sich jeweils 4 bis 5 Waffe
 
 <!--more-->
 
-##Waffeln mit Buttermilch
-
+## Waffeln mit Buttermilch
 
 - 60g weiche Butter
 - 35g Zucker
@@ -27,7 +26,7 @@ Alle Rezepte sind für 2 Personen gedacht. Es ergeben sich jeweils 4 bis 5 Waffe
 
 Butter mit Zucker schaumig rühren, Eier einzeln unterrühren. Mehl, Backpulver und Buttermilch einrühren. 2-3 Esselöffel Teig in das vorgeheizte Waffeleisen geben, ca 2 Minuten backen.
 
-##Waffeln mit Saurer Sahne
+## Waffeln mit Saurer Sahne
 
 - 60g weiche Butter
 - 30g Zucker
@@ -38,7 +37,7 @@ Butter mit Zucker schaumig rühren, Eier einzeln unterrühren. Mehl, Backpulver 
 
 Butter mit Zucker schaumig rühren, Eier einzeln unterrühren. Mehl und saure Sahne einrühren. 3-4 Esselöffel Teig in das vorgeheizte Waffeleisen geben, ca 2 Minuten backen. Dieser Teig ist recht flüssig.
 
-##Sandwaffeln
+## Sandwaffeln
 
 - 70g weiche Butter
 - 35g Zucker
