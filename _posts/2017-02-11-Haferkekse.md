@@ -11,6 +11,7 @@ Allerdings habe ich das Rezept ein wenig abgewandelt.
 
 ## Zutaten
 für ca. 24 Stück
+
 - 50g Weizenmehl (405er oder 550er)
 - 100g zarte Haferflocken
 - 120g kernige Haferflocken
