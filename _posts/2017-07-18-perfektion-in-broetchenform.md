@@ -3,7 +3,7 @@ layout: post
 title: Perfektion in Brötchenform
 ---
 
-# Perfekte Burgerbuns
+## Perfekte Burgerbuns
 
 ![Burgerbuns](https://raw.githubusercontent.com/spinni/spinni.github.com/master/images/20170718-burgerbroetchen1.jpg)
 
@@ -13,7 +13,7 @@ In der deutschen Foodbloggerszene sind mehrere Brötchenrezepte unterwegs, die g
 
 Wo also lebt die Perfektion? Bei Chef John von [Food Wishes](https://foodwishes.blogspot.de/)! Sein [Rezept](https://foodwishes.blogspot.de/2013/07/homemade-hamburger-buns-oh-my-god-becky.html) ist unschlagbar und nicht für Burger- sondern auch hervorragend für Hot-Dog-Buns geeignet. Diese Buns sind unheimlich locker und luftig, aber gleichzeitig sehr stabil.
 
-## Zutaten
+### Zutaten
 für 6-8 Brötchen
 
 - 1,5 TL Trockenhefe oder ca. einer halber Würfel frische Hefe
