@@ -15,6 +15,8 @@ Unser [erster Versuch](https://www.instagram.com/p/BS_4pe5hgF1/?taken-by=spinni8
 
 Einen originalen Chicago Dog bekommt man hierzulande aufgrund fehlender Zutaten nicht hin, aber man kommt nah dran und lecker ist es in jedem Fall. Was braucht man also?
 
+<!--more-->
+
 ### Brötchen
 
 Ein gutes Hot-Dog-Brötchen bekommt man genauso wenig im Supermarkt wie ein ordentliches Burgerbun. Zum Glück lassen sie sich recht leicht selber herstellen. Ich mache sie nach dem Rezept von [Chef John](https://foodwishes.blogspot.de/2014/05/classic-split-top-hot-dog-buns-how-we.html), der Teig ist exakt der Gleiche wie bei den [Burgerbrötchen](http://blog.slotted-spoon.de/perfektion-in-broetchenform/). Das Rezept reicht für 6 oder 8 Brötchen. Man kann den Teig über Nacht im Kühlschrank gehen lassen, dann ist es allerdings wichtig die fertig geformten Brötchen für mindestens eine Stunde, besser anderthalb vor dem Backen auf dem Blech gehen zu lassen.
